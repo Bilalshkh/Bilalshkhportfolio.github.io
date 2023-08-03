@@ -55,16 +55,20 @@ const Hero = () => {
                                 Follow me:
                             </span>
                             <span>
-                                <a href="#https://instagram.com/bilal._.shkh?igshid=NGExMmI2YTkyZg==" className="text-smallTextColor text-[18px] font-[600]">
+                                <a href="https://instagram.com/bilal._.shkh?igshid=NGExMmI2YTkyZg==" className="text-smallTextColor text-[18px] font-[600]">
                                     <i class="ri-instagram-line"></i></a>
                             </span>
                             <span>
-                                <a href="#https://github.com/Bilalshkh" className="text-smallTextColor text-[18px] font-[600]">
+                                <a href="https://github.com/Bilalshkh" className="text-smallTextColor text-[18px] font-[600]">
                                 <i class="ri-github-line"></i></a>
                             </span>
                             <span>
-                                <a href="#https://www.facebook.com/xmarty.bilal.73?mibextid=ZbWKwL" className="text-smallTextColor text-[18px] font-[600]">
+                                <a href="https://www.facebook.com/xmarty.bilal.73?mibextid=ZbWKwL" className="text-smallTextColor text-[18px] font-[600]">
                                 <i class="ri-facebook-line"></i></a>
+                            </span>
+                            <span>
+                                <a href="https://www.linkedin.com/in/bilal-sheikh-395179280" className="text-smallTextColor text-[18px] font-[600]">
+                                <i class="ri-linkedin-line"></i></a>
                             </span>
                         </div>
                     </div>
